@@ -1,0 +1,4 @@
+graphics 0 text {0 0 0} "adenina"
+graphics 1 text {0 0 0} "guanina"
+graphics 2 text {0 0 0} "citosina"
+graphics 3 text {0 0 0} "timina"
